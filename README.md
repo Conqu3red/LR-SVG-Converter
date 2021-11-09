@@ -12,4 +12,5 @@ pip install lrtools svgelements
 ```
 
 # Usage
+Run the program via `python main.py` (make sure to use python 3)
 Enter the path to an svg file to be converted, then select a save format and accuracy mode.
