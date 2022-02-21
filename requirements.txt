@@ -1,2 +1,2 @@
-lrtools==1.0.2
+lrtools==1.0.3
 svgelements==1.6.3
